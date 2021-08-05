@@ -63,9 +63,9 @@
 
 # COMMAND ----------
 
-# MAGIC 
-# MAGIC %sql
-# MAGIC describe history loan_by_state
+#test
+%sql
+describe history loan_by_state
 
 # COMMAND ----------
 
