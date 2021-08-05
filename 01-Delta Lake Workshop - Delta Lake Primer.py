@@ -111,7 +111,7 @@ display(loan_by_state)
 
 # COMMAND ----------
 
-# Configure Delta Lake Silver Path
+# Configure Delta Lake Silver Pat
 DELTALAKE_SILVER_PATH = "/ml/loan_by_state_delta"
 
 # Remove folder if it exists
