@@ -63,7 +63,7 @@
 
 # COMMAND ----------
 
-#test
+#tes
 %sql
 describe history loan_by_state
 
